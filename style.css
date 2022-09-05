@@ -1,0 +1,21 @@
+*{
+    padding: 4px;
+    margin: 1px;
+    box-sizing:initial;
+}
+
+form{
+    width: 40%;
+    padding: 60px;
+    margin: 100px auto;
+    border: 1px solid black;
+    border-radius:10px;
+}
+
+button{
+    padding: 10px;
+    margin: 20px;
+    background-color: rgba(0, 119, 255, 0.459);
+    width: 20%;
+    border-radius: 10px;
+}
